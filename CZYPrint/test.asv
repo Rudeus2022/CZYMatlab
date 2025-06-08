@@ -1,9 +1,0 @@
-
-h=figure;
-plot(1:10,1:10,DisplayName='line 1');hold on;
-plot(1:10,2*(1:10),DisplayName='line 2');hold on;
-xlabel('$\Omega$','Interpreter','latex');
-ylabel('$\Psi$','Interpreter','latex');
-legend("show",Location="best");
-CZYFontSize(h,10,8);
-CZYFontSize(h,10,8)
